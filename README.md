@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project that I've reached in "The Odin Project". I have been tasked with developing a basic website with recipes. By the end of this project I will have used my knowledge of the terminal, git, github, and commits.# odin-recipes
